@@ -1,0 +1,39 @@
+Script started on Tue 09 Apr 2019 02:58:10 PM PDT
+]0;erashid@uw1-320-10: ~/css343/ASG1erashid@uw1-320-10:~/css343/ASG1$ *[Kg++ *.cpp
+]0;erashid@uw1-320-10: ~/css343/ASG1erashid@uw1-320-10:~/css343/ASG1$ ls
+[0m[01;32ma.out[0m  ASG1_Script.txt  main.cpp  poly.cpp  poly.h
+]0;erashid@uw1-320-10: ~/css343/ASG1erashid@uw1-320-10:~/css343/ASG1$ /[K,[K./a.out
+Enter terms for polynomial A.  Enter a coefficient 
+then exponent for each term. Enter -1 -1 to terminate.
+5 7 -4 3 10 1 -2 0 -1 -1
+Enter terms for polynomial B.  Enter a coefficient 
+then exponent for each term. Enter -1 -1 to terminate.
+3 4 1 30    -1 -1
+A = +5x^7 -4x^3 +10x -2
+B = +3x^4 +1x^3
+
+Compute C = A + B:  +5x^7 +3x^4 -3x^3 +10x -2
+
+A is not == B
+A is not == B
+
+Compute  Z1 = A2 - B2:  +5x^7 -3x^4 -5x^3 +10x -2
+Compute  Z2 = B2 - A2:  -5x^7 +3x^4 +5x^3 -10x +2
+
+Compute  D = A * B - 15
+Before: D = +5x^7
+After:  D = +15x^11 +5x^10 -12x^7 -4x^6 +30x^5 +4x^4 -2x^3 -15
+
+Test assignment operators
+X = +15x^11 +5x^10 -12x^7 -4x^6 +30x^5 +4x^4 -2x^3 -15
+Y = -15x^11 -5x^10 +17x^7 +4x^6 -30x^5 -4x^4 -2x^3 +10x -2
+
+Get and Set coefficient
+coeff of subscript 0 of D is: -15
+Doing getCoeff for term -20000
+D = +50x^20000 +15x^11 +5x^10 -12x^7 -4x^6 +30x^5 +4x^4 -2x^3 +50
+
+]0;erashid@uw1-320-10: ~/css343/ASG1erashid@uw1-320-10:~/css343/ASG1$ exit
+exit
+
+Script done on Tue 09 Apr 2019 02:58:58 PM PDT

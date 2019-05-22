@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rashi/Desktop/UW - CSSE/CSS343/Assignments/ASG1_EyasRashid/poly.cpp
+poly.h
+C:/Users/rashi/Desktop/UW - CSSE/CSS343/Assignments/ASG1_EyasRashid/poly.h
+
+C:/Users/rashi/Desktop/UW - CSSE/CSS343/Assignments/ASG1_EyasRashid/poly.h
+iostream
+-
+
